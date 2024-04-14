@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github.com/morateng/gitanimals
+<a href="https://github.com/devxb/gitanimals">
+    <img src = "https://render.gitanimals.org/lines/{morateng}" width="1000" height="60"/>
+</a>
